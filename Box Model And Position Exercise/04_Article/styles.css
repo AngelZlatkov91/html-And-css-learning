@@ -1,0 +1,13 @@
+/* TODO: style the html */
+main {
+    width: 900px;
+    height: 140px;
+
+}
+img {
+    border-right: 1px solid#d1d1d1;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 0 1em 1em 0;
+}
